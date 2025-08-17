@@ -1,1 +1,3 @@
-
+git add fonte/seu_arquivo.ext
+git commit -m "Adiciona o arquivo seu_arquivo.ext na pasta fonte"
+git push
